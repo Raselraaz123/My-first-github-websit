@@ -1,3 +1,20 @@
-  p{
+h1{
+  font-family: arial black;
+  text-align: center;
+  color: aquamarine;
+  background-color: darkgrey;
+}
+ 
+ 
+ p{
     color:#ff0000;
+}
+.ty {
+  font-size: 30px;
+  text-align:center;
+color:blue;
+background-color:coral;
+border:5px inset #f7aa8e;
+
+
 }
