@@ -22,3 +22,12 @@ border:5px inset #f7aa8e;
 color:blue;
 font-size: 45px;
 }
+.tu{
+  color:rgb(15, 233, 160);
+  background-color: rgb(209, 255, 255);
+  text-align:center;
+  border:5px inset #f7aa8e;
+}
+.tu:hover{
+  color: black;
+}
